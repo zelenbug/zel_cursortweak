@@ -1,2 +1,3 @@
-# zel_cursortweak
-Starbound mod - Alternative Aiming Reticle
+Chucklefish forums died, possibly forever, so i decided to start dumping some of the Starbound mods I've released there on Github at least. To download, click the "Code" button at the top, then click Download zip, extract the mod's folder out of the zip, then paste the folder into Starbound's mod directory. Some of the original mod names or descriptions might have been edited a little.
+
+This applies a similar change from the Spore Cursors mod to the vanilla aiming reticle, so the triangley pointy part stays in place (compared to the normal cursor) when you use an aiming weapon. Same changes apply to the charging cursor.
